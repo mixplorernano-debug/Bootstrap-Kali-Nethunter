@@ -2,6 +2,32 @@
 
 <img width="200px"> <img src="https://i.ibb.co/fVnp1kz5/Termux-banner-or-interface.png" alt="Termux-banner-or-interface" border="0">
 
+Pre-Requisites
+Update Termux to the latest version:
+```
+apt update && apt upgrade -y
+```
+Restart Termux. If prompted for superuser access at any point, grant it.
+
+Instructions
+Download the installer:
+```
+wget https://github.com/cipherswami/boot-nethunter/releases/download/v1.1/install_boot-kali.sh
+```
+Make it executable:
+```
+chmod +x install_boot-kali.sh
+```
+
+Run the installer:
+```
+./install_boot-kali.sh
+```
+et voilà! Installation complete 🎉. Now, clean up:
+```
+rm install_boot-kali.sh
+```
+
 
 
 #### Qurxin is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 16-oct-2020
