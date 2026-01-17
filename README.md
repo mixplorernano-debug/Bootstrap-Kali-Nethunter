@@ -27,11 +27,6 @@ Run the installer:
 ```
 et voilà! Installation complete 🎉. Now, clean up:
 ```
-rm install_boot-kali.sh
-```
-
-
-
 #### Qurxin is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 16-oct-2020
 
 ## [+] Installation & Usage :atom_symbol:
